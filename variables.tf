@@ -29,7 +29,7 @@ variable "address_space" {
 variable "subnet_prefix" {
   type        = string
   description = "(Optional) The address prefix to use for the subnet. Defaults to 10.0.10.0/24."
-  default     = "10.0.10.0/24"
+  default     = "10.0.100.0/24"
 }
 
 variable "instance_type" {
