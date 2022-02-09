@@ -16,7 +16,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${placeholder}/${width}/${height}"></img></center>
   <center><h2>Diamond Dogs</h2></center>
-  Welcome to ${project}'s app.
+  Welcome to ${project}'s app. Nice page!
   <!-- END -->
 
   </div>
