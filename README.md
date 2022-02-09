@@ -52,5 +52,4 @@ terraform plan
 ```bash
 terraform apply
 ```
-Hello! Hello again!
-From development branch.
+Hello! Hello again! Only from github?
